@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muaz</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mmuaz-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="mmuaz-pixel" /> </p>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbinaryinformatics.com%2Fmern-stack-development%2F&psig=AOvVaw1lHSmVRTIq4mR-QhL-Oc5q&ust=1703969640021000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDlm97DtYMDFQAAAAAdAAAAABAI">
 
 - 🌱 I’m currently learning **ML/DL**
