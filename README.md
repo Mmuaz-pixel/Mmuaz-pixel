@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muaz</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbinaryinformatics.com%2Fmern-stack-development%2F&psig=AOvVaw1lHSmVRTIq4mR-QhL-Oc5q&ust=1703969640021000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDlm97DtYMDFQAAAAAdAAAAABAI">
-
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **MERN Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mmuaz-pixel](https://github.com/Mmuaz-pixel)
 
-- 💬 Ask me about **MERN & ML/DL**
+- 💬 Ask me about **Node Js**
 
 - 📫 How to reach me **mmuaz.bese22seecs@seecs.edu.pk**
 
