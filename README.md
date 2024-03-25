@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Muaz</h1>
-<h3 align="center">MERN Development & Cloud computing</h3>
+<h3 align="center">Backend Node js | AWS | MERN</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
